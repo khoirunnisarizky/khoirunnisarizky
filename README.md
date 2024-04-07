@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @khoirunnisarizky
-- 👀 I’m interested in learning anything related IT Industry
-- 🌱 I’m currently learning about this CS50 for Computer Science and Artificial Intelligence, App Development in iOS Environment, An Art of Leadership, Building Team and Culture✌🏻
-- 💞️ I’m looking to collaborate on AI project related with natural language processing.
+- 👋 Hi, I’m @khoirunnisarizky, a passionate tech enthusiast skilled in problem-solving and committed to driving innovation through Challenge-Based Learning. Successfully managed 200 learners annually, applying Apple's technology approach to craft impactful solutions. Proficient in Swift programming and adept at developing applications for Apple devices. Aspiring to excel and enhance skills in machine learning and data science.
+- 💞️ I’m looking to collaborate on AI project related with Vision, Speech, and Natural Language Processing.
 - 📫 How to reach me : send me email here - aniskrnf512@gmail.com
 
 <!---
